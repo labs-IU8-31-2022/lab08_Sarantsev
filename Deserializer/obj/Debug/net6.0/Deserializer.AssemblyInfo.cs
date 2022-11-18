@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Desserializer")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Deserializer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Desserializer")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Desserializer")]
+[assembly: System.Reflection.AssemblyProductAttribute("Deserializer")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Deserializer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
